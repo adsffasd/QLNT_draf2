@@ -85,10 +85,11 @@ String url = request.getScheme() + "://" + request.getServerName() + ":" + reque
 		<div class="container-fluid">
 			<div class="collapse navbar-collapse" id="navbarSupportedContent">
 				<div class="navbar-nav">
-					<a class="nav-link" href="#">Trang chủ</a> <a class="nav-link"
-						href="#">Phòng trọ cho thuê</a> <a class="nav-link" href="#">Tìm
-						người ở ghép</a> <a class="nav-link" href="#">Tin tức</a> <a
-						class="nav-link" href="#">Bảng giá</a>
+					<a class="nav-link" href="index.jsp">Trang chủ</a> 
+					<a class="nav-link" href="#">Khách thuê trọ</a> 
+					<a class="nav-link" href="#">Phòng trọ</a> 
+					<a class="nav-link" href="#">Hợp đồng thuê trọ</a> 
+					<a class="nav-link" href="#">Bảng giá</a>
 				</div>
 			</div>
 		</div>
